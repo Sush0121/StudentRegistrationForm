@@ -1,5 +1,4 @@
-# StudentRegistrationForm
-# Student Registration Portal  
+# StudentRegistrationForm 
 A sleek Java Swing-based Student Management Application with a modern tabbed interface.
 
 ---
